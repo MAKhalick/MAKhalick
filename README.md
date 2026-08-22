@@ -1,14 +1,16 @@
-# 👨‍💻 Hi, I'm Mohammed Adnan Khalick
+<h1 align="center">Hi there, I'm Adnan 👋</h1>
 
-**Data Engineer | Applied Data Science Master's Graduate**
+<h3 align="center">Data Engineer | Data Analyst | Database Developer | Backend Engineer</h3>
 
-Welcome to my GitHub! I specialize in building scalable ETL workflows, optimizing complex database schemas, and developing cloud-native data architectures[cite: 1]. With nearly 3 years of experience in backend database engineering and enterprise business intelligence, my focus is bridging the gap between technical infrastructure and actionable business insights[cite: 1].
+<p align="center">
+  I am a recent Master's graduate in Applied Data Science with nearly 3 years of experience specializing in backend database engineering, enterprise business intelligence (BI) and scalable data pipelines. I excel at bridging the gap between highly technical infrastructure and intuitive, business-focused insights.
+</p>
 
-<div align="left">
-  <a href="YOUR_WEBSITE_URL" target="_blank">
+<div align="center">
+  <a href="https://makhalick.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-adnan-khalick/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohammedadnankhalick@gmail.com">
@@ -16,23 +18,61 @@ Welcome to my GitHub! I specialize in building scalable ETL workflows, optimizin
   </a>
 </div>
 
-## 🛠️ Tech Stack & Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-</div>
+---
 
-## 🚀 Featured Data Engineering Projects
-* **OC Transpo ETL Data Pipeline:** Serverless Medallion architecture utilizing Python, AWS, and Databricks for high-velocity GTFS transit telemetry[cite: 1].
-* **NICC Infrastructure Module:** Bulk upload pipeline and spatial validation matrix engineered with Flask and PostGIS to process complex GeoJSON and CSV data[cite: 1].
-* **AI Job Hunt Pipeline:** Serverless ETL integrating Google Gemini LLM and NLP models to semantically evaluate candidate fit against job postings[cite: 1].
+### 🚀 What I'm Up To and
+- 🔭 **Currently Building:** Serverless ETL architectures and interactive analytics dashboards.
+- 🌱 **Currently Learning:** Preparing to take my Microsoft Fabric Analytics Engineer (DP-600) certification this September. 
+- 🤝 **Open To:** Roles in Data Engineering, Data Analytics, Database Development and Backend Engineering.
 
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedadnankhalick&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</div>
+---
+
+### 🛠️ Technical Arsenal
+
+**Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+**Databases & Data Warehousing**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
+
+**Cloud & Data Engineering**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+**BI & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+---
+
+### 💼 Featured Projects
+
+* **[OC Transpo ETL Data Pipeline](#)**: Architected a serverless Medallion data architecture (Bronze/Silver/Gold) using Python, AWS Lambda, EventBridge and Databricks to ingest and analyze high-velocity GTFS transit telemetry. 
+* **[NICC Infrastructure Module](#)**: Engineered an advanced spatial validation matrix and bulk upload pipeline using PostGIS and Flask to process complex GeoJSON and CSV infrastructure data.
+* **[AI-Powered Job Hunt Automation](#)**: Architected a serverless ETL data pipeline utilizing Python, GitHub Actions and Google Gemini LLM to automatically extract, deduplicate and semantically evaluate job postings.
+
+---
+<p align="center">
+  <i>Seeking new opportunities to leverage scalable data engineering, database optimization and business intelligence to drive data-informed business strategies.</i>
+</p>
