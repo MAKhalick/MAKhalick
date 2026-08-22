@@ -20,7 +20,7 @@
 
 ---
 
-### 🚀 What I'm Up To and
+### 🚀 What I'm Up To
 - 🔭 **Currently Building:** Serverless ETL architectures and interactive analytics dashboards.
 - 🌱 **Currently Learning:** Preparing to take my Microsoft Fabric Analytics Engineer (DP-600) certification this September. 
 - 🤝 **Open To:** Roles in Data Engineering, Data Analytics, Database Development and Backend Engineering.
